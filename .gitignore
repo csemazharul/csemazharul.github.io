@@ -2,6 +2,7 @@
 node_modules/
 
 # Build outputs
+build/
 dist/
 .output/
 
