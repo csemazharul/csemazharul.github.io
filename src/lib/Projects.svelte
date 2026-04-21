@@ -9,7 +9,6 @@
     <a class="proj" href={p.href} target="_blank" rel="noopener">
       <div class="top">
         <span class="kind">{p.kind}</span>
-        <span>{p.year}</span>
       </div>
       <h3>{p.name} <span class="arr">↗</span></h3>
       <p>{p.desc}</p>
